@@ -5,4 +5,4 @@ compatibility_date = "2023-03-24"
 # Nastavení pro sultrade.cz (veřejné hodnoty; tajný GITHUB_CLIENT_SECRET je jen v Cloudflare jako secret)
 [vars]
 ALLOWED_DOMAINS = "sultrade.cz, *.sultrade.cz, *.sultrade.workers.dev"
-GITHUB_CLIENT_ID = "Ov23lifNOdbOSHmqAx4o"
+GITHUB_CLIENT_ID = "Ov23liUl1OBS0a7p9uyC"
